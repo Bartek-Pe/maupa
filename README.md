@@ -1,1 +1,1 @@
-Website for MS-Studio, more info soon.
+Website for MS-Studio.
